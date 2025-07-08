@@ -1346,20 +1346,20 @@
     rxjs "^7.8.1"
     tslib "^2.8.1"
 
-"@polkadot/extension-dapp@^0.61.2":
-  version "0.61.2"
-  resolved "https://registry.yarnpkg.com/@polkadot/extension-dapp/-/extension-dapp-0.61.2.tgz#d585fd944dc877e0f34883ae59a2baf998a58a1f"
-  integrity sha512-9rHeeWHhrwMdpoKwUG8z4u1tRHxSqTT5BnFWTKElq+IwSHgmaQC/SOa2ZB5bFT4loBHrShm6ADsbL+9OD8LBRA==
+"@polkadot/extension-dapp@^0.61.3":
+  version "0.61.3"
+  resolved "https://registry.yarnpkg.com/@polkadot/extension-dapp/-/extension-dapp-0.61.3.tgz#419f9453f88d4925f7b85aa4ca4d66b669f4ae0f"
+  integrity sha512-Wos+nWUAJ8dTxFGFVnwZrYsEZWSc2zHNR+HGn4ebH5eOKPcyrCH2IAoC6CkZHtUKKfp2nPrFFKLpNxkmKfgFnw==
   dependencies:
-    "@polkadot/extension-inject" "0.61.2"
+    "@polkadot/extension-inject" "0.61.3"
     "@polkadot/util" "^13.5.3"
     "@polkadot/util-crypto" "^13.5.3"
     tslib "^2.8.1"
 
-"@polkadot/extension-inject@0.61.2":
-  version "0.61.2"
-  resolved "https://registry.yarnpkg.com/@polkadot/extension-inject/-/extension-inject-0.61.2.tgz#15c3ede379ce1ff8a72540a2bcfddb345bfc3ed6"
-  integrity sha512-Q6EoNF48Q4c8ZL/S1BLiPRuq2Pls0JnfWygwE9Ptsbf6QZ2WtaZ0HsECKhPnTldEYpN8rnQN7cWPfs/GI38p6w==
+"@polkadot/extension-inject@0.61.3":
+  version "0.61.3"
+  resolved "https://registry.yarnpkg.com/@polkadot/extension-inject/-/extension-inject-0.61.3.tgz#833a29e1ab64d17bc48fa470916d36475e0232de"
+  integrity sha512-mBHPjQAWspIt+4KHw2UmowrDECK7CdWjcGRl3zabUkEdR1zc8T4z51A6/oG812Bqm8HMBsAKTn1N1EQWy+VHpg==
   dependencies:
     "@polkadot/api" "^16.3.1"
     "@polkadot/rpc-provider" "^16.3.1"
