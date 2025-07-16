@@ -88,7 +88,7 @@
     }
   },
   "engines": {
-    "node": ">=20.19.4"
+    "node": ">=22.17.1"
   },
   "packageManager": "yarn@1.22.22"
 }
